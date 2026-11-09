@@ -1,4 +1,4 @@
-#ifdef CALC_H
+#ifndef CALC_H
 #define CALC_H
 
 // Эта функция возвращает сумму переменных
